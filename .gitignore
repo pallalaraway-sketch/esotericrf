@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+node_modules/
+LANDING_STRATEGY.md
+audit_saita-v3.md
